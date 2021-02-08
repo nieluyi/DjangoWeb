@@ -1,4 +1,4 @@
-httplib2==0.18.1
+httplib2==0.19.0
 Django==3.0.7
 django_ckeditor==5.9.0
 xmltodict==0.12.0
